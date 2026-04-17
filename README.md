@@ -10,7 +10,7 @@ Here are some projects I did and a brief description of what they are, and the t
 
 Heart Disease Prediction Using Machine Learning
 
-Code: [](https://github.com/okitikatobi-rgb/Data-Analyst-Repository/blob/main/healthcare-1.ipynb)
+Code: [(https://github.com/okitikatobi-rgb/Data-Analyst-Repository/blob/main/healthcare-1.ipynb)]
 
 Goal: This project aims to predict the likelihood of heart attack risk, enabling early detection, better diagnosis support, and improved patient outcomes in healthcare settings.
 
@@ -38,7 +38,7 @@ Flight Delay Analysis and Visualisation Using R
 
 Goal: To analyse flight delay patterns using historical flight data and create insightful visualisations to understand the factors contributing to flight delays, helping airlines, airports, or stakeholders make data-driven decisions to improve on-time performance.
 
-R Codes: [](https://github.com/okitikatobi-rgb/Data-Analyst-Repository/blob/main/flight%20delay.R)
+R Codes: [(https://github.com/okitikatobi-rgb/Data-Analyst-Repository/blob/main/flight%20delay.R)]
 
 Description: This project focuses on flight delay analysis and serves as a strong foundation for further predictive modelling.
 
