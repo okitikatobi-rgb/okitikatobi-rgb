@@ -10,7 +10,7 @@ Here are some projects I did and a brief description of what they are, and the t
 
 Heart Disease Prediction Using Machine Learning
 
-Code: healthcare-1.ipynb
+Code: https://healthcare-1.ipynb
 
 Goal: This project aims to predict the likelihood of heart attack risk, enabling early detection, better diagnosis support, and improved patient outcomes in healthcare settings.
 
